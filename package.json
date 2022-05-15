@@ -1,0 +1,11 @@
+{
+  "name": "mono-references",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nightmarelie/mono-references.git",
+  "author": "Oleksii Kryvtsov <nightmarelie@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.4"
+  }
+}
