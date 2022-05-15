@@ -5,6 +5,9 @@
   "repository": "git@github.com:nightmarelie/mono-references.git",
   "author": "Oleksii Kryvtsov <nightmarelie@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc -b ./tsconfig.json"
+  },
   "devDependencies": {
     "typescript": "^4.6.4"
   }
